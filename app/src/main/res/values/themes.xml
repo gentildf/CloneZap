@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CloneZap" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#075e54</item>
+        <item name="colorPrimaryVariant">#054d44</item>
+        <item name="colorOnPrimary">#25d366</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#075e54</item>
+        <item name="colorSecondaryVariant">#054d44</item>
+        <item name="colorOnSecondary">#25d366</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#075e54</item>
+        <item name="colorPrimaryDark">#054d44</item>
+        <item name="colorAccent">#25d366</item>
+    </style>
+    <style name="Toolbar" parent="Theme.AppCompat.NoActionBar">
+
+    </style>
+</resources>

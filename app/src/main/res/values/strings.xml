@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CloneZap</string>
+    <string name="nao_possui_conta">Nao possui conta? Cadastre-se</string>
+    <string name="logar">Logar</string>
+    <string name="todo">TODO</string>
+    <string name="digite_seu_e_mail">Digite seu e-mail</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="digite_nome">Digite seu nome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
