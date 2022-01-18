@@ -12,7 +12,8 @@
         <activity
             android:name=".activity.ConfiguracoesActivity"
             android:exported="false"
-            android:theme="@style/AppTheme" />
+            android:theme="@style/AppTheme"
+            android:parentActivityName=".activity.MainActivity"/> <!--conf para habil botao voltar -->
         <activity
             android:name=".activity.CadastroActivity"
             android:exported="false" />

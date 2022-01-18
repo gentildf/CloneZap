@@ -18,7 +18,7 @@ public class ConfiguracoesActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbarPrincipal);
         toolbar.setTitle("Configuracoes");
         setSupportActionBar(toolbar);
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true); //Adicionar o botao voltar e ir conf em manifest um "parent"
 
     }
 
